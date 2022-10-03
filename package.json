@@ -1,0 +1,24 @@
+{
+  "name": "js-advance-concepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "set UV_THREADPOOL_SIZE=5 & node threads.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagoacmonteiro/node-js-advance-concepts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagoacmonteiro/node-js-advance-concepts/issues"
+  },
+  "homepage": "https://github.com/thiagoacmonteiro/node-js-advance-concepts#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
